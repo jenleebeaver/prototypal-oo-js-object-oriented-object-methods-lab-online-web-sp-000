@@ -7,7 +7,7 @@ function BoardMember(name, homeState, training){
   // Add following methods to the class:
   // veto — returns No, I must disagree
   veto(){
-    return `No, I must disagree`;
+    return `No, I must disagree`
   }
 
 }
