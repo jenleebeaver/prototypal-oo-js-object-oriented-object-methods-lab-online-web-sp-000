@@ -3,9 +3,12 @@ function BoardMember(name, homeState, training){
   this.name = name;
   this.homeState = homeState;
   this.training = training;
-  
+
   // Add following methods to the class:
   // veto — returns No, I must disagree
+  veto(){
+    
+  }
 
 }
 
